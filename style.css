@@ -1,13 +1,29 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
+/*Der sinn der style.css ist die Farbe/ Schriftgröße und die art und die Elemente in der  */
 body{
-  background-color: pink;
+  background-color: black;
+  color: rgb(0, 255, 42)
 }
+table{
+  border: 1px solid;
+  width: 100%
+
+}
+th{
+  border: 1px solid;
+  background-color: red;
+}
+tr{
+  border: 1px solid;
+  background-color: red;
+}
+
+
 </style>
 </head>
 <body>
+
+
+/* Für jede Zeile der Tabelle wird eine TR../ Tr angelegt. TR steht für table rode */ 
 
 <h1>Meine HTML-Seite</h1>
 <p>Hier ist der Inhalt meiner Seite.</p>
